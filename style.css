@@ -1,3 +1,17 @@
+body {
+  background-repeat: repeat-x;
+  display: block;
+  margin: 8px;
+  cursor: url("https://fauux.neocities.org/cursor.gif"), auto;
+}
+
+body {
+  font-family: system-ui;
+  background: black;
+  color: white;
+  text-align: center;
+}
+
 .snow {
   position: absolute;
   width: 10px;
@@ -2606,19 +2620,6 @@
   }
 }
 
-body {
-  background-repeat: repeat-x;
-  display: block;
-  margin: 8px;
-  cursor: url("https://fauux.neocities.org/cursor.gif"), auto;
-}
-
-body {
-  font-family: system-ui;
-  background: black;
-  color: white;
-  text-align: center;
-}
 
 .round-button {
   border-radius: 50%;
