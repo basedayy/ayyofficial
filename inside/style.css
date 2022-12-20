@@ -1,9 +1,10 @@
+
 .snow {
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  background: white;
-  border-radius: 50%;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	background: #c6019e;
+	border-radius: 50%;
 }
 .snow:nth-child(1) {
   opacity: 0.0656;
