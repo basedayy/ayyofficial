@@ -1,6 +1,6 @@
 document.getElementsByTagName("h1")[0].style.fontSize = "8vw";
 
-let titles = ['love', 'lain', '𝕃𝕒𝕚𝕟', 'Ｌａｉｎ' , "you're there", 'YES UR HERE', 'ｕｒ ｈｅｒｅ', 'welcome', 'wₑₗcₒₘₑ', 'to' , 'ⓣⓞ', 'my', '『m』『y』', 'site' , 'ǝʇıs'];
+let titles = ['love', 'lain', '𝕃𝕒𝕚𝕟', 'Ｌａｉｎ' , 'youre there', 'YES UR HERE', 'ｕｒ ｈｅｒｅ', 'welcome', 'wₑₗcₒₘₑ', 'to' , 'ⓣⓞ', 'my', '『m』『y』', 'site' , 'ǝʇıs'];
     let currentTitle = 0;
 
     function updateTitle() {
