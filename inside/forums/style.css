@@ -12,6 +12,14 @@ body {
   text-align: center;
 }
 
+.container_main {
+	color: black;
+	width: 838px;
+	border: 322px solid;
+	margin: auto;
+	height: 0px;
+}
+
 .round-button {
   border-radius: 50%;
   opacity: 0.5;
