@@ -6,6 +6,11 @@ body {
 }
 
 
+body {
+  font-family: system-ui;
+  color: white;
+  text-align: center;
+}
 
 .round-button {
   border-radius: 50%;
