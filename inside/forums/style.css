@@ -1,0 +1,31 @@
+body {
+  background-repeat: repeat-x;
+  display: block;
+  margin: 8px;
+  cursor: url("https://fauux.neocities.org/cursor.gif"), auto;
+}
+
+body {
+  font-family: system-ui;
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+
+
+.round-button {
+  border-radius: 50%;
+  opacity: 0.5;
+  background-color: transparent;
+  border: none;
+  color: white;
+  /* changes the text color to white */
+  font-size: 16px;
+  /* changes the text size */
+}
+
+.round-button:hover {
+  opacity: 1;
+  /* makes the button fully opaque when the mouse is over it */
+}
