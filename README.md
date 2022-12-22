@@ -28,7 +28,7 @@ This project was heavily inspired by them.
 
 The character is also called lain from the anime/game serial experiments lain. 
 
-**Q: what was your goal for the website or what kind of website did u wanted to make**
+**Q: what was your goal for the website or what kind of website did u want to make?**
 
 A: my goal was making a website that looks like the one im inspired from at first. However it got bigger and i thought of running a forum. So i made like a Static forum website with some other things. It was and is very fun working on it. 
 
