@@ -45,4 +45,4 @@ That is how i run my site for now.
 That is also how you can make yours. Good luck on making your own website.
 
 
-#if you have any question about my site feel free to ask me. I'll gladly answer them when i see them. 
+# If you have any question about my site feel free to ask me. I'll gladly answer them when i see them. 
