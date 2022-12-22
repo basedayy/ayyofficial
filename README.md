@@ -36,7 +36,7 @@ A: my goal was making a website that looks like the one im inspired from at firs
 
 **In general:** I used the normal basics of making a website and mixed with my coding abilities with some researches. 
 
-**the forums page**: i used linked github discussions with the site's div through the extention called giscus (its very easy to setup). 
+**the forums page**: i used linked github discussions with the site's div through the extention called giscus (its very easy to set it up).
 
 **the domain**: i used a site called https://www.freenom.com and configured the dns with github. Thats how i got my domain running on gg-pages. 
 
