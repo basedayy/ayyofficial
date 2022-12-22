@@ -2,7 +2,7 @@
 
 # The Project. 
 
-If you found this repository. That means you have found my project that im working on the
+If you found this repository. That means you have found my project that I've been working on the
 for a while. 
 
 # FAQ. 
