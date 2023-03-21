@@ -10,7 +10,7 @@ for a while.
 
 A: I've been working on a Fully free as possible website to work that might help me. 
 
-It is https://www.baseday.tk (pronounced based ay). 
+It is https://www.basedayy.tk (pronounced based ayy). 
 
 **Q: when did you start working on the website?**
 
